@@ -1,0 +1,109 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #FFD9FF !important;
+}
+
+.navbar-brand {
+    color: #f72585 !important;
+}
+.jumbotron {
+    color: #f72585;
+    background-color: #FFCEFF;
+    margin-bottom: 0;
+}
+
+h1, .card-title, .navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.card-title {
+    font-size: 34px !important;
+}
+
+hr {
+    border: 3px solid #f72585;
+    width: 60%;
+}
+
+img {
+    border-radius: 1rem;
+}
+
+.card {
+    border-radius: 1rem;
+}
+.carousel {
+    border-radius: 1rem;
+}
+
+.wrapper {
+    width: 100%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.wrapper1 {
+    background-color: #ffc6ff;
+}
+
+.wrapper2 {
+    background-color: #e7bfff;
+}
+
+.wrapper3 {
+    background-color: #D8BBFF;
+}
+
+.wrapper4 {
+    background-color: #C8B6FF;
+}
+
+.wrapper5 {
+    background-color: #A0C4FF;
+}
+
+.wrapper6 {
+    background-color: #9EDDFF;
+}
+
+.parallax {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+.parallax1 {
+    background-image: url("images/L6.jpg");
+}
+
+.parallax2 {
+    background-image: url("images/L4.jpg");
+}
+
+.parallax3 {
+    background-image: url("images/L1.jpg");
+}
+
+.parallax4 {
+    background-image: url("images/L12.jpg");
+}
+
+.parallax5 {
+    background-image: url("images/L13.jpg");
+}
+
+.parallax6 {
+    background-image: url("images/L3.jpg");
+}
+
+.parallax7 {
+    background-image: url("images/L10.jpg");
+}
+
+
