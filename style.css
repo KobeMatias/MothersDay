@@ -14,7 +14,10 @@ body {
     background-color: #FFCEFF;
     margin-bottom: 0;
 }
-
+.btn {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 h1, .card-title, .navbar-brand {
     font-family: 'Pacifico', cursive;
 }
@@ -37,6 +40,7 @@ img {
 
 .card {
     border-radius: 1rem;
+    margin-bottom: 1rem;
 }
 .carousel {
     border-radius: 1rem;
